@@ -1,38 +1,38 @@
 # Hypenotize Studios
 
-Este é o README geral da organização.
+This is the organization-wide README.
 
-Atualmente sou o **único membro**, mas tudo aqui é estruturado para que **qualquer pessoa que entre no futuro consiga se orientar rapidamente**.
-
----
-
-## Objetivo
-
-* Manter todos os projetos organizados
-* Padronizar processos e decisões
-* Facilitar manutenção e crescimento da organização
+Currently, I am the **only member**, but everything here is structured so that **anyone joining in the future can quickly find their way around**.
 
 ---
 
-## Tipos de Repositório
+## Goal
 
-* **Projetos de jogo**: jogos completos ou protótipos
-* **Sistemas / bibliotecas**: código reutilizável entre projetos
-* **Ferramentas**: scripts, automações e utilitários internos
-* **Documentação**: guias e padrões do estúdio
-
-Cada repositório deve ter seu próprio README.
+- Keep all projects organized  
+- Standardize processes and decisions  
+- Make maintenance and organizational growth easier  
 
 ---
 
-## Padrões Gerais
+## Repository Types
 
-* Commits seguem **Conventional Commits** (`feat(scope): descrição`)
-* Versionamento semântico (SemVer) quando aplicável
-* Automação (CI/CD) sempre que possível
+- **Game projects**: complete games or prototypes  
+- **Systems / libraries**: reusable code shared across projects  
+- **Tools**: internal scripts, automation, and utilities  
+- **Documentation**: studio guides and standards  
+
+Each repository must have its own README.
 
 ---
 
-## Regra Simples
+## General Standards
 
-Se algo gera dúvida mais de uma vez, **precisa ser documentado**.
+- Commits follow **Conventional Commits** (`feat(scope): description`)  
+- Semantic Versioning (SemVer) when applicable  
+- Automation (CI/CD) whenever possible  
+
+---
+
+## Simple Rule
+
+If something causes confusion more than once, **it must be documented**.
